@@ -1,1 +1,9 @@
-// Code from Test2 branch
+#include <stdio.h>
+
+void greet() {
+}
+
+int main() {
+    greet();
+    return 0;
+}
